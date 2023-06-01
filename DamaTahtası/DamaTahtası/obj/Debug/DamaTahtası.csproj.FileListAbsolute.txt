@@ -1,0 +1,11 @@
+D:\c#\DamaTahtası\DamaTahtası\bin\Debug\DamaTahtası.exe.config
+D:\c#\DamaTahtası\DamaTahtası\bin\Debug\DamaTahtası.exe
+D:\c#\DamaTahtası\DamaTahtası\bin\Debug\DamaTahtası.pdb
+D:\c#\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.csproj.AssemblyReference.cache
+D:\c#\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.csproj.SuggestedBindingRedirects.cache
+D:\c#\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.Form1.resources
+D:\c#\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.Properties.Resources.resources
+D:\c#\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.csproj.GenerateResource.cache
+D:\c#\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.csproj.CoreCompileInputs.cache
+D:\c#\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.exe
+D:\c#\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.pdb
