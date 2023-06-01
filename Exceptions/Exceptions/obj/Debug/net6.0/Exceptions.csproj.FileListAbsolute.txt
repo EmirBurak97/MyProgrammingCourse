@@ -1,0 +1,15 @@
+D:\c#\Exceptions\Exceptions\bin\Debug\net6.0\Exceptions.exe
+D:\c#\Exceptions\Exceptions\bin\Debug\net6.0\Exceptions.deps.json
+D:\c#\Exceptions\Exceptions\bin\Debug\net6.0\Exceptions.runtimeconfig.json
+D:\c#\Exceptions\Exceptions\bin\Debug\net6.0\Exceptions.dll
+D:\c#\Exceptions\Exceptions\bin\Debug\net6.0\Exceptions.pdb
+D:\c#\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.csproj.AssemblyReference.cache
+D:\c#\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfoInputs.cache
+D:\c#\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfo.cs
+D:\c#\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.csproj.CoreCompileInputs.cache
+D:\c#\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.dll
+D:\c#\Exceptions\Exceptions\obj\Debug\net6.0\refint\Exceptions.dll
+D:\c#\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.pdb
+D:\c#\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.genruntimeconfig.cache
+D:\c#\Exceptions\Exceptions\obj\Debug\net6.0\ref\Exceptions.dll
