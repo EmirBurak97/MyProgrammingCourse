@@ -1,0 +1,15 @@
+D:\c#\Collections\Collections\bin\Debug\net6.0\Collections.exe
+D:\c#\Collections\Collections\bin\Debug\net6.0\Collections.deps.json
+D:\c#\Collections\Collections\bin\Debug\net6.0\Collections.runtimeconfig.json
+D:\c#\Collections\Collections\bin\Debug\net6.0\Collections.dll
+D:\c#\Collections\Collections\bin\Debug\net6.0\Collections.pdb
+D:\c#\Collections\Collections\obj\Debug\net6.0\Collections.csproj.AssemblyReference.cache
+D:\c#\Collections\Collections\obj\Debug\net6.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Collections\Collections\obj\Debug\net6.0\Collections.AssemblyInfoInputs.cache
+D:\c#\Collections\Collections\obj\Debug\net6.0\Collections.AssemblyInfo.cs
+D:\c#\Collections\Collections\obj\Debug\net6.0\Collections.csproj.CoreCompileInputs.cache
+D:\c#\Collections\Collections\obj\Debug\net6.0\Collections.dll
+D:\c#\Collections\Collections\obj\Debug\net6.0\refint\Collections.dll
+D:\c#\Collections\Collections\obj\Debug\net6.0\Collections.pdb
+D:\c#\Collections\Collections\obj\Debug\net6.0\Collections.genruntimeconfig.cache
+D:\c#\Collections\Collections\obj\Debug\net6.0\ref\Collections.dll
