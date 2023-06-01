@@ -1,0 +1,15 @@
+D:\c#\Loops(Döngüler)\Loops(Döngüler)\bin\Debug\net6.0\Loops(Döngüler).exe
+D:\c#\Loops(Döngüler)\Loops(Döngüler)\bin\Debug\net6.0\Loops(Döngüler).deps.json
+D:\c#\Loops(Döngüler)\Loops(Döngüler)\bin\Debug\net6.0\Loops(Döngüler).runtimeconfig.json
+D:\c#\Loops(Döngüler)\Loops(Döngüler)\bin\Debug\net6.0\Loops(Döngüler).dll
+D:\c#\Loops(Döngüler)\Loops(Döngüler)\bin\Debug\net6.0\Loops(Döngüler).pdb
+D:\c#\Loops(Döngüler)\Loops(Döngüler)\obj\Debug\net6.0\Loops(Döngüler).csproj.AssemblyReference.cache
+D:\c#\Loops(Döngüler)\Loops(Döngüler)\obj\Debug\net6.0\Loops(Döngüler).GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Loops(Döngüler)\Loops(Döngüler)\obj\Debug\net6.0\Loops(Döngüler).AssemblyInfoInputs.cache
+D:\c#\Loops(Döngüler)\Loops(Döngüler)\obj\Debug\net6.0\Loops(Döngüler).AssemblyInfo.cs
+D:\c#\Loops(Döngüler)\Loops(Döngüler)\obj\Debug\net6.0\Loops(Döngüler).csproj.CoreCompileInputs.cache
+D:\c#\Loops(Döngüler)\Loops(Döngüler)\obj\Debug\net6.0\Loops(Döngüler).dll
+D:\c#\Loops(Döngüler)\Loops(Döngüler)\obj\Debug\net6.0\refint\Loops(Döngüler).dll
+D:\c#\Loops(Döngüler)\Loops(Döngüler)\obj\Debug\net6.0\Loops(Döngüler).pdb
+D:\c#\Loops(Döngüler)\Loops(Döngüler)\obj\Debug\net6.0\Loops(Döngüler).genruntimeconfig.cache
+D:\c#\Loops(Döngüler)\Loops(Döngüler)\obj\Debug\net6.0\ref\Loops(Döngüler).dll
