@@ -1,0 +1,15 @@
+D:\c#\Classes(Sınıflar)\Classes(Sınıflar)\obj\Debug\net6.0\Classes(Sınıflar).csproj.AssemblyReference.cache
+D:\c#\Classes(Sınıflar)\Classes(Sınıflar)\obj\Debug\net6.0\Classes(Sınıflar).GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Classes(Sınıflar)\Classes(Sınıflar)\obj\Debug\net6.0\Classes(Sınıflar).AssemblyInfoInputs.cache
+D:\c#\Classes(Sınıflar)\Classes(Sınıflar)\obj\Debug\net6.0\Classes(Sınıflar).AssemblyInfo.cs
+D:\c#\Classes(Sınıflar)\Classes(Sınıflar)\obj\Debug\net6.0\Classes(Sınıflar).csproj.CoreCompileInputs.cache
+D:\c#\Classes(Sınıflar)\Classes(Sınıflar)\bin\Debug\net6.0\Classes(Sınıflar).exe
+D:\c#\Classes(Sınıflar)\Classes(Sınıflar)\bin\Debug\net6.0\Classes(Sınıflar).deps.json
+D:\c#\Classes(Sınıflar)\Classes(Sınıflar)\bin\Debug\net6.0\Classes(Sınıflar).runtimeconfig.json
+D:\c#\Classes(Sınıflar)\Classes(Sınıflar)\bin\Debug\net6.0\Classes(Sınıflar).dll
+D:\c#\Classes(Sınıflar)\Classes(Sınıflar)\bin\Debug\net6.0\Classes(Sınıflar).pdb
+D:\c#\Classes(Sınıflar)\Classes(Sınıflar)\obj\Debug\net6.0\Classes(Sınıflar).dll
+D:\c#\Classes(Sınıflar)\Classes(Sınıflar)\obj\Debug\net6.0\refint\Classes(Sınıflar).dll
+D:\c#\Classes(Sınıflar)\Classes(Sınıflar)\obj\Debug\net6.0\Classes(Sınıflar).pdb
+D:\c#\Classes(Sınıflar)\Classes(Sınıflar)\obj\Debug\net6.0\Classes(Sınıflar).genruntimeconfig.cache
+D:\c#\Classes(Sınıflar)\Classes(Sınıflar)\obj\Debug\net6.0\ref\Classes(Sınıflar).dll
